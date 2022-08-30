@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @gio2nice
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gio2nice/gio2nice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Robertson Giovanni Rojas
+- I’m currently learning Full stack development at UW!!
+- 📫 Email: gio2nice@uw.edu
